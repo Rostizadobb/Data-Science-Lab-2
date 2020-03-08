@@ -1,5 +1,5 @@
 [![IBM Cloud powered][img-ibmcloud-powered]][url-ibmcloud]
-# Data Science-Lab 1
+# Data Science-Lab 2
 Ojo: Esta es la parte 2 de 3 de nuestro taller de Data Science, puedes entrar a la primera parte desde este enlace: https://github.com/Rostizadobb/Data_Science-Lab-1
 # Pre-requisitos
 * Tener instalado [**github Desktop**](https://desktop.github.com) o [**git cli**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
