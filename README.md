@@ -1,6 +1,5 @@
-# Data-Science-Lab-2
-Aprende a crear un Jupiter Notebook en Watson Studio y crea un modelo dentro de este!
-
+[![IBM Cloud powered][img-ibmcloud-powered]][url-ibmcloud]
+# Data Science-Lab 1
 Ojo: Esta es la parte 2 de 3 de nuestro taller de Data Science, puedes entrar a la primera parte desde este enlace: https://github.com/Rostizadobb/Data_Science-Lab-1
 # Pre-requisitos
 * Tener instalado [**github Desktop**](https://desktop.github.com) o [**git cli**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
@@ -72,6 +71,11 @@ Y damos clic en “Create Notebook”.
 ![](img/20.png)
 9.	Hecho esto ya habrás terminado de crear tu modelo.
 
+[url-academic]: https://my15.digitalexperience.ibm.com/b73a5759-c6a6-4033-ab6b-d9d4f9a6d65b/dxsites/151914d1-03d2-48fe-97d9-d21166848e65/home/
+[img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
+[url-ibmcloud]: https://www.ibm.com/cloud/
+
 Y listo! Puedes continuar con el siguente lab [**AQUI**](https://github.com/Rostizadobb/Data-Science-Lab-3).
 Te invitamos a explorar otros talleres y manuales en el siguiente enlace de Github.
 https://github.com/ibmdevelopermx
+
